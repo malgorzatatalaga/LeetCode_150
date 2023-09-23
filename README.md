@@ -1,2 +1,3 @@
-# LeetCode
-This repository contains solved LeetCode problems.
+# LeetCode 150
+https://leetcode.com/studyplan/top-interview-150/
+
