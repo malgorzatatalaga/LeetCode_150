@@ -1,5 +1,5 @@
 # LeetCode 150 ![0.02%](https://progress-bar.dev/0)
-Progress: 5/150 
+Progress: 6/150 
 
 https://leetcode.com/studyplan/top-interview-150/
 
